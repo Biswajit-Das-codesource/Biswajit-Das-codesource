@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biswajit Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgaurav-1011.medium.com%2Fbenefits-of-hiring-a-full-stack-developer-1544adec42dc%3Fsource%3Dpost_internal_links---------1-------------------------------&psig=AOvVaw3hAuBA5FjUDY2wy0uCR-SK&ust=1725303672181000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDMmJi3oogDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-das-codesource&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-das-codesource" /> </p>
 
 - 🌱 I’m currently learning **Java,React.js**
