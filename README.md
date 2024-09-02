@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit-das-codesource&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="biswajit-das-codesource" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-das-codesource&show_icons=true&locale=en&theme=tokyonight" alt="biswajit-das-codesource" /></p>
+<p>&nbsp;<img align="center" align="left" src="https://github-readme-stats.vercel.app/api?username=biswajit-das-codesource&show_icons=true&locale=en&theme=tokyonight" alt="biswajit-das-codesource" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-das-codesource&&theme=tokyonight" alt="biswajit-das-codesource" /></p>
